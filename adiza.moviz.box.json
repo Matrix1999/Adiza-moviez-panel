@@ -1,0 +1,9 @@
+{
+    "version_code": 5,
+    "version_name": "4.1.0",
+    "changelog": "• Improved streaming stability\n• Faster app launch\n• Security hardening\n• Auto-update system overhauled",
+    "apk_url": "https://github.com/Matrix1999/adiza-moviez-box-flutter/releases/download/v4.1.0%2B5/AdizaMoviezBox-arm64-v8a-release.apk",
+    "update_size": "",
+    "force_update": false
+  }
+  
