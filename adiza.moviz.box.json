@@ -1,8 +1,8 @@
 {
-  "version_code": 27,
-  "version_name": "4.2.0",
-  "changelog": "• Fixed streaming — instant playback restored\n• Cloudflare relay bypasses region lock\n• Advanced image caching — no more OOM crashes\n• Smoother scrolling on all cards\n• Auto-update system overhauled",
-  "apk_url": "https://github.com/Matrix1999/Adiza-moviez-panel/releases/download/v4.2.0/AdizaMoviezBox_v4.2.0.apk",
-  "update_size": "24.2 MB",
+  "version_code": 34,
+  "version_name": "4.2.7",
+  "changelog": "• Fixed search — All movies & series search are now fixed & working perfectly",
+  "apk_url": "https://github.com/Matrix1999/Adiza-moviez-panel/releases/download/4.2.7/Adiza.Moviez.Box.apk",
+  "update_size": "27.2 MB",
   "force_update": false
 }
